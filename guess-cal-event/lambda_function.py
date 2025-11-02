@@ -263,7 +263,7 @@ The JSON schema is as follows:
 {
   "htmlLink": string, # Any link if provided by the user
   "summary": string, # Title of the event (make it concise)
-  "description": string, # Description of the event (complete description with all details)
+  "description": string, # Description of the event (nicely worded description of event)
   "location": string, # Provided location of the event. If room number such as "GOS 2455" provided, just use that.
   "start": {
     "date": date, # for all-day events
